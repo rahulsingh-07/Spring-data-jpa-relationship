@@ -31,5 +31,3 @@ This project demonstrates how to implement and manage various types of relations
 - Proper use of JSON annotations to avoid circular references
 
 ---
-
-## 📦 Project Structure
